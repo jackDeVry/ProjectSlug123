@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "jackDeVry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181752547?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "jackDeVry",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-06-15T19:19:09.717Z",
-    "updated_at": "2026-06-15T19:19:09.717Z"
-  }
+    "updated_at": "2026-06-15T19:19:09.717Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "b444d69c-c772-4956-b045-ccf0648d333d": {
+      "content": [],
+      "created_at": "2026-06-15T19:19:09.737Z",
+      "created_by": "jackDeVry",
+      "title": "A title that can be changed later",
+      "updated_at": "2026-06-15T19:19:09.737Z",
+      "updated_by": "jackDeVry",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b444d69c-c772-4956-b045-ccf0648d333d"
+  ]
 }
